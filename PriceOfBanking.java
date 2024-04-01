@@ -25,7 +25,7 @@ public class PriceOfBanking {
 
     public static void main(String[] args) {
         try {
-            File file = new File("testcases/controlFlowTesting/Test 3.txt");
+            File file = new File("testcases/dataFlowTesting/test 2.txt");
             Scanner scanner = new Scanner(file);
 
             String str = scanner.next();
